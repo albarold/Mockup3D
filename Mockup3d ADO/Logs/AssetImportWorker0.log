@@ -124,3 +124,11 @@ Received Import Request.
 Start importing Assets/Asset/Obj/Msh_Pompe.fbx using Guid(780ed0dcd3b137744b34af6525e4170b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13103dcb270d9f615426379999255d11') in 0.013256 seconds 
   Import took 0.015507 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 4794.021764 seconds.
+  path: Assets/Asset/Obj/Pompe_Low.fbx
+  artifactKey: Guid(5e7c665ab09a92d4fbca02a2e0e5f141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Asset/Obj/Pompe_Low.fbx using Guid(5e7c665ab09a92d4fbca02a2e0e5f141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2695f58298c26dd386daf9c91b65b0') in 0.012359 seconds 
+  Import took 0.014803 seconds .
+
